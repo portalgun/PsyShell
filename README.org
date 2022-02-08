@@ -1,0 +1,12 @@
+* PsyShell
+A shell/command-prompt and/or command dispatcher for matlab within matlab, minus the UI.
+
+* Description
+1. Interfaces with 'Keys' to grab commands bound to keys.
+     OR
+    Read and execute sequence of keys.
+2. Records actions/keys in its own command history
+3. Scroll through and execute previous commands
+
+In essence, allows for arbitrary code execution within something like Psychtoolbox.
+
